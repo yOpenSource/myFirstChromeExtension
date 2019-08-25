@@ -10,11 +10,16 @@ Here, I am trying to add a chrome extension... lets see how far I get it.. ;)
 
 - on the developer mode
 
-- save files from extensions folder on your local drive
+- save files from [extensions folder](https://github.com/yOpenSource/myFirstChromeExtension/tree/master/extension) on your local drive
 
-- select load unpacked and then select your folder
+- select ```load unpacked``` from [chrome://extensions](chrome://extensions) and then select the downloaded **extensions** folder
 
-- and load or reload any site and check the console 
+- and visit any site  and the check console
+
+- read the script in the **extensions** folder to understand the working of the added scripts
+
+- ```manifest.json``` contains the configuration information
+
 
 
 
@@ -26,3 +31,7 @@ Here, I am trying to add a chrome extension... lets see how far I get it.. ;)
 page and reload your extension.
 
 > - Whenever you add external js to your extension at that time you will have to add its name in the manifest.json
+
+> - Do not use inconginto as extensios are disabled in inconginto mode
+
+> - Your extension will appear near the address bar
