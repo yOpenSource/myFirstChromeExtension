@@ -6,7 +6,7 @@ Here, I am trying to add a chrome extension... lets see how far I get it.. ;)
 
 ## **Steps to run the code :**
 
-- open chrom://extensions
+- open chrome://extensions
 
 - on the developer mode
 
