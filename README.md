@@ -35,3 +35,7 @@ page and reload your extension.
 > - Do not use inconginto as extensios are disabled in inconginto mode
 
 > - Your extension will appear near the address bar
+
+> - You can find very cool extensions over https://chrome.google.com/webstore/category/extensions
+
+> - Also visit  https://developer.chrome.com/apps/match_patterns for extra information
